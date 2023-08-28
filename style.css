@@ -82,8 +82,8 @@ body {
 }
 
 .profile-image {
-    width: 75px; /* Passe die Breite nach Bedarf an */
-    height: 75px;
+    width: 100;
+    height: 100px;
     margin-top: 1rem;
     border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
